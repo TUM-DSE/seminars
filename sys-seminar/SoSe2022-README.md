@@ -32,9 +32,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Research presentation (Day 2):** Thursday, June 2 -- 1:30 – 4:00pm
 
-- **[Report due](README.md#Report) (via HotCRP):** Thursday, June 30 -- 1:30 pm
+- **Report due (via HotCRP):** Thursday, June 30 -- 1:30 pm
 
-- **[Peer-review due](README.md#Report) (via HotCRP):** Thursday, July 14 -- 1:30pm
+- **Peer-review due (via HotCRP):** Thursday, July 14 -- 1:30pm
 
 
 ## Paper reading list
