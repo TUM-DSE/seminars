@@ -45,7 +45,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Paper reading list
 
-Please use the following list to bid for papers: 
+Please use the following list to select a paper (FCFS): 
 
 - [Paper list]() [TBD]
 
