@@ -45,7 +45,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Paper reading list
 
-Please bid for the paper as a team. 
+Please use the following list to bid for papers: 
 
 - [Paper list]() [TBD]
 
