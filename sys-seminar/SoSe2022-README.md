@@ -10,7 +10,20 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
 - **Slack channel:** #ss-22-sys-seminar
-    
+
+## Important resources
+
+Please carefully go over the following resources to prepare for the seminar:
+
+- [Overview](general-info/overview.pdf)
+- [Paper reading](general-info/paper-reading.pdf)
+- [Presentation](general-info/presentation.pdf)
+- [Report](general-info/report.pdf)
+- [Participation](general-info/participation.pdf)
+- [Peer reviewing](general-info/peer-review.pdf)
+- [Grading](general-info/grading.pdf)
+- [System building](general-info/system-building.pdf)
+
 ## Important dates
 
 - Kick-off meeting: Thursday, April 28 -- 1:30 – 2:30pm
@@ -36,4 +49,9 @@ Please bid for the paper as a team.
 We will manage report submission and peer-reviewing using the HotCRP portal.
 
 - HotCRP portal: 
+
+
+## Contact
+
+For any further questions/comments, please contact [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/).
 
