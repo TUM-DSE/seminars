@@ -52,7 +52,7 @@ Please bid for the paper as a team.
 
 ## Report submission and peer-review portal
 
-We will manage report submission and peer-reviewing using the HotCRP portal.
+We will manage the submission and peer-reviewing of reports via HotCRP:
 
 - [HotCRP portal](https://tum-ss2021.hotcrp.com/) 
 
