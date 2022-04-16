@@ -7,8 +7,9 @@
 ## Slack workspace (Contact)
 
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
-    - **Slack workspace:** https://ls1-courses-tum.slack.com
-    - **Slack channel:** #ss-22-sys-seminar
+
+- **Slack workspace:** https://ls1-courses-tum.slack.com
+- **Slack channel:** #ss-22-sys-seminar
     
 ## Important dates
 
