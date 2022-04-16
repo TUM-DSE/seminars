@@ -61,5 +61,5 @@ We will manage report submission and peer-reviewing using the HotCRP portal.
 
 For any further questions/comments, please contact the seminar organizer(s):
 
-- [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/).
+- [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
