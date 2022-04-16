@@ -22,7 +22,7 @@ Please carefully go over the following resources to prepare for the seminar:
 - [Participation](general-info/participation.pdf)
 - [Peer reviewing](general-info/peer-review.pdf)
 - [Grading](general-info/grading.pdf)
-- [System building](general-info/system-building.pdf)
+- [System building](general-info/system-building.pdf) (Optional)
 
 ## Important dates
 
