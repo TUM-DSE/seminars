@@ -52,7 +52,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 Please use the following list to select a paper (FCFS): 
 
-- The list of papers will be released on Slack after the kick-off meeting
+- The list of papers will be released on Slack *after the kick-off meeting*.
 
 
 ## Report submission and peer-review portal
