@@ -4,7 +4,7 @@
 
 - The seminar is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
 
-## Slack workspace (Contact)
+## Slack workspace
 
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
