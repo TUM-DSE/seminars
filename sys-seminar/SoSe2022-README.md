@@ -13,7 +13,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 ## Meeting place
 
-We will be meeting three times (Kick-off meeting, Research presentation day 1 and 2) at the following location:
+We will be meeting three times (*Kick-off meeting, and Research presentation day 1 and 2*) at the following location:
 
 XXX  [TBD]
 
