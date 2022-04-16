@@ -11,6 +11,12 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 - **Slack workspace:** https://ls1-courses-tum.slack.com
 - **Slack channel:** #ss-22-sys-seminar
 
+## Meeting place
+
+We will be meeting at the following venue:
+
+XXX
+
 ## Important resources
 
 Please carefully go over the following resources to prepare for the seminar:
