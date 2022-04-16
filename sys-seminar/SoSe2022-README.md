@@ -13,15 +13,15 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
     
 ## Important dates
 
-- Kick-off meeting: Thursday, April 28, 1:30 – 2:30pm
+- Kick-off meeting: Thursday, April 28 -- 1:30 – 2:30pm
 
-- Research presentation (Day 1):
+- Research presentation (Day 1): Thursday, May 26 -- 1:30 – 4:00pm
 
-- Research presentation (Day 2):
+- Research presentation (Day 2): Thursday, June 2 -- 1:30 – 4:00pm
 
-- Report due:
+- Report due: Thursday, June 30 -- 1:30 pm
 
-- Peer-review due:
+- Peer-review due: Thursday, July 14 -- 1:30pm
 
 
 ## Paper reading list
