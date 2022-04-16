@@ -13,7 +13,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 ## Meeting place
 
-We will be meeting at the following venue:
+We will be meeting three times (Kick-off meeting, Research presentation day 1 and 2) at the following location:
 
 XXX
 
@@ -47,7 +47,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 Please bid for the paper as a team. 
 
-- Paper list
+- [Paper list]()
 
 
 ## Report submission and peer-review portal
