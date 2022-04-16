@@ -13,7 +13,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
     
 ## Important dates
 
-- Kick-off meeting: 
+- Kick-off meeting: Thursday, April 28, 1:30 – 2:30pm
 
 - Research presentation (Day 1):
 
