@@ -15,7 +15,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 We will be meeting three times (Kick-off meeting, Research presentation day 1 and 2) at the following location:
 
-XXX
+XXX  [TBD]
 
 ## Important resources
 
@@ -47,7 +47,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 Please bid for the paper as a team. 
 
-- [Paper list]()
+- [Paper list]() [TBD]
 
 
 ## Report submission and peer-review portal
