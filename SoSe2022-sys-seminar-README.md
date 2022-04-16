@@ -4,6 +4,11 @@
 
 - The seminar is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
 
+## Registration
+
+- **Capacity:** We plan to have at most 24 places in the seminar.
+- **Deadline:** We will enroll you for the course 14 days after matching. If you want to drop out, you will need to inform us before the registration deadline.  
+
 ## Slack workspace
 
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
