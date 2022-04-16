@@ -48,7 +48,7 @@ Please bid for the paper as a team.
 
 We will manage report submission and peer-reviewing using the HotCRP portal.
 
-- HotCRP portal: 
+- [HotCRP portal](https://tum-ss2021.hotcrp.com/) 
 
 
 ## Contact
