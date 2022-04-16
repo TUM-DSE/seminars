@@ -21,7 +21,7 @@ XXX  [TBD]
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](general-info/overview.pdf)
+- [Overview](general-info/sys-seminar-overview.pdf)
 - [Paper reading](general-info/paper-reading.pdf)
 - [Presentation](general-info/presentation.pdf)
 - [Report](general-info/report.pdf)
