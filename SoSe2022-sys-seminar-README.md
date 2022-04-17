@@ -30,14 +30,14 @@ https://tum-conf.zoom.us/j/66386105256
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](general-info/sys-seminar-overview.pdf)
-- [Paper reading](general-info/paper-reading.pdf)
-- [Presentation](general-info/presentation.pdf)
-- [Report](general-info/report.pdf)
-- [Participation](general-info/participation.pdf)
-- [Peer reviewing](general-info/peer-review.pdf)
-- [Grading](general-info/grading.pdf)
-- [System building](general-info/system-building.pdf) (Optional)
+- [Overview](docs/sys-seminar-overview.pdf)
+- [Paper reading](docs/paper-reading.pdf)
+- [Presentation](docs/presentation.pdf)
+- [Report](docs/report.pdf)
+- [Participation](docs/participation.pdf)
+- [Peer reviewing](docs/peer-review.pdf)
+- [Grading](docs/grading.pdf)
+- [System building](docs/system-building.pdf) (Optional)
 
 ## Important dates
 
