@@ -20,20 +20,24 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 We will be meeting three times (*Kick-off meeting, and Research presentation day 1 and 2*) at the following location:
 
-- **Location:** [TBD]
+- Join Zoom Meeting
+https://tum-conf.zoom.us/j/66386105256
+
+- Meeting ID: 663 8610 5256
+- Passcode: 036059
 
 ## Important resources
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](general-info/sys-seminar-overview.pdf)
-- [Paper reading](general-info/paper-reading.pdf)
-- [Presentation](general-info/presentation.pdf)
-- [Report](general-info/report.pdf)
-- [Participation](general-info/participation.pdf)
-- [Peer reviewing](general-info/peer-review.pdf)
-- [Grading](general-info/grading.pdf)
-- [System building](general-info/system-building.pdf) (Optional)
+- [Overview](docs/sys-seminar-overview.pdf)
+- [Paper reading](docs/paper-reading.pdf)
+- [Presentation](docs/presentation.pdf)
+- [Report](docs/report.pdf)
+- [Participation](docs/participation.pdf)
+- [Peer reviewing](docs/peer-review.pdf)
+- [Grading](docs/grading.pdf)
+- [System building](docs/system-building.pdf) (Optional)
 
 ## Important dates
 
