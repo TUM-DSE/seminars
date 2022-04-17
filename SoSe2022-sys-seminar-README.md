@@ -23,8 +23,8 @@ We will be meeting three times (*Kick-off meeting, and Research presentation day
 - Join Zoom Meeting
 https://tum-conf.zoom.us/j/66386105256
 
-Meeting ID: 663 8610 5256
-Passcode: 036059
+- Meeting ID: 663 8610 5256
+- Passcode: 036059
 
 ## Important resources
 
