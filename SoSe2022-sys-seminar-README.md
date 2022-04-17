@@ -41,6 +41,8 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
+- **Preliminary meeting:** Feb 3, 2022 02:00pm
+
 - **Kick-off meeting:** Thursday, April 28 -- 1:30 – 2:30pm
 
 - **Research presentation (Day 1):** Thursday, May 26 -- 1:30 – 4:00pm
