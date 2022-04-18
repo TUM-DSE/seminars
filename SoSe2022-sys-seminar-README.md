@@ -47,7 +47,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Research presentation (Day 1):** Thursday, June 2 -- 1:30 – 4:00pm
 
-- **Research presentation (Day 2):** Thursday, June 3 -- 1:30 – 4:00pm
+- **Research presentation (Day 2):** Friday, June 3 -- 1:30 – 4:00pm
 
 - **Report due (via HotCRP):** Thursday, June 30 -- 1:30 pm
 
