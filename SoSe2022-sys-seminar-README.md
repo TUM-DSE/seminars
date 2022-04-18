@@ -45,9 +45,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Kick-off meeting:** Thursday, April 28 -- 1:30 – 2:30pm
 
-- **Research presentation (Day 1):** Thursday, May 26 -- 1:30 – 4:00pm
+- **Research presentation (Day 1):** Thursday, June 2 -- 1:30 – 4:00pm
 
-- **Research presentation (Day 2):** Thursday, June 2 -- 1:30 – 4:00pm
+- **Research presentation (Day 2):** Thursday, June 9 -- 1:30 – 4:00pm
 
 - **Report due (via HotCRP):** Thursday, June 30 -- 1:30 pm
 
