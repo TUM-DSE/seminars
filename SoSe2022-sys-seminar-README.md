@@ -20,11 +20,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 We will be meeting three times (*Kick-off meeting, and Research presentation day 1 and 2*) at the following location:
 
-- Join Zoom Meeting
-https://tum-conf.zoom.us/j/66386105256
-
-- Meeting ID: 663 8610 5256
-- Passcode: 036059
+- Join Zoom Meeting: https://tum-conf.zoom.us/j/66386105256  (Passcode: 036059)
 
 ## Important resources
 
