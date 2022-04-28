@@ -1,4 +1,4 @@
-# Modern Data Center Systems (“sys-seminar”) -- SoSe 2022
+# Cloud Computing Systems (“sys-seminar”) -- WiSe 2022-23
 
 ## Chair website
 
@@ -7,20 +7,20 @@
 ## Registration
 
 - **Capacity:** We plan to have at most 24 places in the seminar.
-- **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you will need to inform us before the registration deadline.  
+- **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, please inform us before the registration deadline.  
 
 ## Slack workspace
 
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ss-22-sys-seminar
+- **Slack channel:** #ws-22-sys-seminar
 
 ## Meeting place
 
 We will be meeting three times (*Kick-off meeting, and Research presentation day 1 and 2*) at the following location:
 
-- Join Zoom Meeting: https://tum-conf.zoom.us/j/66386105256  (Passcode: 036059)
+- TBD
 
 ## Important resources
 
@@ -37,17 +37,17 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** Feb 3, 2022 02:00pm
+- **Preliminary meeting:** TBD
 
-- **Kick-off meeting:** Thursday, April 28 -- 1:30 – 2:30pm
+- **Kick-off meeting:** TBD
 
-- **Research presentation (Day 1):** Thursday, June 2 -- 1:30 – 4:00pm
+- **Research presentation (Day 1):** TBD
 
-- **Research presentation (Day 2):** Friday, June 3 -- 1:30 – 4:00pm
+- **Research presentation (Day 2):** TBD
 
-- **Report due (via HotCRP):** Thursday, June 30 -- 1:30 pm
+- **Report due (via HotCRP):** TBD
 
-- **Peer-review due (via HotCRP):** Thursday, July 14 -- 1:30pm
+- **Peer-review due (via HotCRP):** TBD
 
 
 ## Paper reading list
