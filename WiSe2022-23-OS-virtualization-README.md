@@ -1,4 +1,4 @@
-# Advanced Operating Systems and Virtualization (“os-virtualize-seminar”) -- WiSe 2022-23
+# Operating Systems and Virtualization (“os-virtualize-seminar”) -- WiSe 2022-23
 
 ## Chair website
 
