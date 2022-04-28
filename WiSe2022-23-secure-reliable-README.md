@@ -66,7 +66,7 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 ## Contact
 
-For any further questions/comments, please contact the seminar organizer(s):
+We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 - [Dr. Myoung Jin Nam](https://dse.in.tum.de/dr-myoung-jin-nam/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
