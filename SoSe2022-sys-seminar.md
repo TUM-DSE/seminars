@@ -20,8 +20,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 We will be meeting three times (*Kick-off meeting, and Research presentation day 1 and 2*) at the following location:
 
-- Join Zoom Meeting: https://tum-conf.zoom.us/j/66386105256  (Passcode: 036059)
-
+- Presentations will take place in-person: Group meeting room (01.07.058) at the chair.
 ## Important resources
 
 Please carefully go over the following resources to prepare for the seminar:
