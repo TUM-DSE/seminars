@@ -4,6 +4,32 @@
 
 - The seminar is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
 
+## Course Information
+
+- **Language:** English
+- **Module:** IN2107
+- **Prerequisites:** 
+  - This is a master’s level seminar course. As such we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, system programming languages (C/C++/Rust), or equivalent background. Please check with the instructor, if you think your background is insufficient.
+  - Additional preferred pre-requisites, but not compulsory courses at TUM:
+    - Operating Systems and System Software
+    - Introduction to Computer Organization and Technology - Computer Architecture
+    - Praktikum: Systems Programming in C++
+    - Praktikum: Advanced Systems Programming in C/Rust
+- **TUM Online:** 
+  - You must register for this course in TUM Online before the course starts
+- **Student note:**
+  - Compulsory enrollment after two weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam
+
+## Course Details
+
+This course introduces essential techniques to make software systems reliable and secure. The course will cover a range of topics including programming languages, computer architecture, formal methods, high-performance dynamic methods, and hardware-assisted methods. The students will be able to build on their knowledge of recent advances in software/hardware defenses for various domain systems including cloud systems, cyber-physical systems, dependable systems, fault-tolerance, and system security.
+
+The students will read, discuss, and analyze recent papers in security and reliability. Students are expected to read papers in-depth prior to class, and take turns in preparing and delivering high-quality presentations of papers. Furthermore, the students will actively participate in the discussion to critically analyze the system, and advance the state-of-the-art. More concretely, the students will learn:
+Advance scientific topics in computer systems
+Scientific report preparation 
+Presentation and discussion of scientific results
+Peer-review of the scientific reports 
+
 ## Registration
 
 - **Capacity:** We plan to have at most 24 places in the seminar.
@@ -18,9 +44,11 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 ## Meeting place
 
-We will be meeting three times (*Kick-off meeting, and Research presentation day 1 and 2*) at the following location:
-
-- TBD
+- **Preliminary meeting:**
+  - https://tum-conf.zoom.us/j/62289693607
+  - Meeting ID: 622 8969 3607
+- The kick-off meeting and research presentations (day 1 and 2)
+  - TBD (in person)
 
 ## Important resources
 
@@ -37,7 +65,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** TBD
+- **Preliminary meeting:** July 18th, 2022 09:30 AM CEST
 
 - **Kick-off meeting:** TBD
 
@@ -67,6 +95,7 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 ## Contact
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
+- [Dr. Redha Gouicem](https://redha.gouicem.fr/)
 - [Dr. Myoung Jin Nam](https://dse.in.tum.de/dr-myoung-jin-nam/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
