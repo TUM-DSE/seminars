@@ -1,4 +1,4 @@
-# Secure and Reliable Systems (“secure-reliable-seminar”) -- WiSe 2022-23
+# Secure and Reliable Systems (“secure-reliable”) -- WiSe 2022-23
 
 ## Chair website
 
