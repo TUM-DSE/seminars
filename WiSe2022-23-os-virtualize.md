@@ -63,7 +63,8 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** July 18th, 2022 09:00 AM CET
+- **Preliminary meeting:** July 18th, 2022 09:00 AM CET  
+  [slides](WiSe2022-23-os-virtualize_Preliminary_meeting.pdf)
 
 - **Kick-off meeting:** TBD
 
