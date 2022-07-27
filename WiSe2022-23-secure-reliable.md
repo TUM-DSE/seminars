@@ -47,7 +47,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 - **Preliminary meeting:**
   - https://tum-conf.zoom.us/j/62289693607
   - Meeting ID: 622 8969 3607
-  - Slies: https://docs.google.com/presentation/d/1wB5zxLBg5beIz3aNXI8rFJyXW7d2sIv99vUduooR_J0/edit?usp=sharing
+  - Slides: https://docs.google.com/presentation/d/1wB5zxLBg5beIz3aNXI8rFJyXW7d2sIv99vUduooR_J0/edit?usp=sharing
 - The kick-off meeting and research presentations (day 1 and 2)
   - TBD (in person)
 
