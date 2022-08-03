@@ -68,16 +68,15 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Preliminary meeting:** July 18th, 2022 09:30 AM CEST
 
-- **Kick-off meeting:** TBD
+- **Kick-off meeting:** Oct 26th, 2022 14:00 PM - 15:00 PM CET, Location: To be updated.
 
-- **Research presentation (Day 1):** TBD
+- **Research presentation (Day 1):** Nov 23th 14:00 PM - 17:00 PM CET, Location: To be updated.
 
-- **Research presentation (Day 2):** TBD
+- **Research presentation (Day 2):** Nov 24th 14:00 PM - 17:00 PM CET, Location: To be updated.
 
-- **Report due (via HotCRP):** TBD
+- **Report due (via HotCRP):** Jan 13th 24:00 PM CET
 
-- **Peer-review due (via HotCRP):** TBD
-
+- **Peer-review due (via HotCRP):** Jan 27th 24:00 PM CET
 
 ## Paper reading list
 
