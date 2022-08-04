@@ -68,11 +68,11 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Preliminary meeting:** July 18th, 2022 09:30 AM CEST
 
-- **Kick-off meeting:** Oct 26th, 2022 14:00 PM - 15:00 PM CET, Location: To be updated.
+- **Kick-off meeting:** Oct 26th, 2022 14:00 PM - 15:00 PM CET, Location: 00.13.008, Seminarraum (5613.EG.008)
 
-- **Research presentation (Day 1):** Nov 23th 14:00 PM - 17:00 PM CET, Location: To be updated.
+- **Research presentation (Day 1):** Nov 23th 14:00 PM - 17:00 PM CET, Location: 00.13.008, Seminarraum (5613.EG.008)
 
-- **Research presentation (Day 2):** Nov 24th 14:00 PM - 17:00 PM CET, Location: To be updated.
+- **Research presentation (Day 2):** Nov 24th 14:00 PM - 17:00 PM CET, Location: 02.04.011, Seminarraum (M9/M10) (5604.02.011)
 
 - **Report due (via HotCRP):** Jan 13th 24:00 PM CET
 
