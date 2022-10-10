@@ -68,9 +68,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Kick-off meeting:** Oct 26th, 2022 14:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 1):** Nov 23th 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 1):** Nov 23th 12:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 2):** Nov 24th 14:00 PM - 17:00 PM CET, 01.07.058, Besprechungsraum (5607.01.058)
+- **Research presentation (Day 2):** Nov 24th 12:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
 - **Report due (via HotCRP):** Jan 13th 24:00 PM CET
 
