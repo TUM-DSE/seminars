@@ -52,7 +52,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](docs/overview.pdf)
+- [Overview](docs/os-virtualize-overview.pdf)
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
 - [Report](docs/report.pdf)
