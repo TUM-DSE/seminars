@@ -49,7 +49,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
   - Meeting ID: 622 8969 3607
   - Slides: https://docs.google.com/presentation/d/1wB5zxLBg5beIz3aNXI8rFJyXW7d2sIv99vUduooR_J0/edit?usp=sharing
 - The kick-off meeting and research presentations
-  - TBD (in person)
+  - In-person (See below)
 
 ## Important resources
 
@@ -72,7 +72,7 @@ Please carefully go over the following resources to prepare for the seminar:
   - Oct 26th, 2022 14:00 PM - 15:00 PM CET
   - Location: 00.13.008, Seminarraum (5613.EG.008)
 
-- **Research presentation (Day 1):** 
+- **Research presentation:** 
   - Nov 23th 14:00 PM - 17:00 PM CET
   - Location: 00.13.008, Seminarraum (5613.EG.008)
 
