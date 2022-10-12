@@ -93,7 +93,7 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 ## Contact
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the course organizer(s):
-- [Masanori Misono](https://mmisono.github.io/)
+- [Dr. Masanori Misono](https://mmisono.github.io/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
 
