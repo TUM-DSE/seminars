@@ -52,7 +52,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](docs/)
+- [Overview](docs/overview.pdf)
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
 - [Report](docs/report.pdf)
@@ -64,7 +64,6 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Important dates
 
 - **Preliminary meeting:** July 18th, 2022 09:00 AM CET  
-  [slides](WiSe2022-23-os-virtualize_Preliminary_meeting.pdf)
 
 - **Kick-off meeting:** Oct 26th, 2022 14:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
@@ -94,7 +93,6 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 ## Contact
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the course organizer(s):
-- [Peter Okelmann](https://dse.in.tum.de/peter-okelmann/)
 - [Masanori Misono](https://mmisono.github.io/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
