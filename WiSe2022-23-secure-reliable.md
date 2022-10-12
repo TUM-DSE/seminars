@@ -48,14 +48,14 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
   - https://tum-conf.zoom.us/j/62289693607
   - Meeting ID: 622 8969 3607
   - Slides: https://docs.google.com/presentation/d/1wB5zxLBg5beIz3aNXI8rFJyXW7d2sIv99vUduooR_J0/edit?usp=sharing
-- The kick-off meeting and research presentations (day 1 and 2)
+- The kick-off meeting and research presentations
   - TBD (in person)
 
 ## Important resources
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](docs/)
+- [Overview](docs/secure-reliable-overview)
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
 - [Report](docs/report.pdf)
@@ -75,10 +75,6 @@ Please carefully go over the following resources to prepare for the seminar:
 - **Research presentation (Day 1):** 
   - Nov 23th 14:00 PM - 17:00 PM CET
   - Location: 00.13.008, Seminarraum (5613.EG.008)
-
-- **Research presentation (Day 2):** 
-  - Nov 24th 14:00 PM - 17:00 PM CET
-  - Location: 02.04.011, Seminarraum (M9/M10) (5604.02.011)
 
 - **Report due (via HotCRP):** Jan 13th 24:00 PM CET
 
@@ -102,6 +98,5 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 - [Dr. Redha Gouicem](https://redha.gouicem.fr/)
-- [Dr. Myoung Jin Nam](https://dse.in.tum.de/dr-myoung-jin-nam/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
