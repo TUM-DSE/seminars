@@ -4,8 +4,22 @@
 
 The seminar is organized by the [Chair of Distributed Systems & Operating Systems](https://dse.in.tum.de/) at TU Munich.
 
+## Course Information
 
-## Course Description
+- **Language:** English
+- **Module:** IN0014, IN2107 
+- **Prerequisites:** 
+  - Basic operating systems principles: Operating Systems and System Software (IN0009) or equivalent.
+  - Additional preferred pre-requisites, but not compulsory courses at TUM:
+	- Introduction to Quantum Computing (IN2381)
+	- Quantum Computing Software Lab
+	- Seminar: Advanced Topics in Quantum Computing (IN2107,IN2183,IN0014) 
+- **TUM Online:** 
+  - You must register for this course in TUM Online before the course starts
+- **Student note:**
+  - Compulsory enrollment after two weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam
+
+## Course Details
 
 Quantum computing promises exponential speedup on certain problems that are otherwise intractable by classical computers. However, quantum computers currently are noisy and small (NISQ) and as such, cannot be practically used. Researchers develop software methods that mitigate their noise and enable the execution of large programs on small quantum computers. This course explores the design and implementation of such software methods that scale quantum computing. The course will cover a range of topics including:
 - Hybrid classical-quantum computing
@@ -14,24 +28,6 @@ Quantum computing promises exponential speedup on certain problems that are othe
 - Quantum resource management
 
 The students will be able to build on their knowledge of recent advances in software systems that scale quantum computing including compilers, operating systems and optimization.
-
-
-## Previous Knowledge Expected
-
-Basic operating systems principles:
-- Operating Systems and System Software (IN0009) or equivalent.
-
-Additional preferred pre-requisites, but not compulsory courses at TUM:
-- Introduction to Quantum Computing (IN2381)
-- Quantum Computing Software Lab
-- Seminar: Advanced Topics in Quantum Computing (IN2107,IN2183,IN0014) 
-
-
-## Additional preferred pre-requisites, but not compulsory courses at TUM:
-
-- Introduction to Quantum Computing (IN2381)
-- Quantum Computing Software Lab
-- Seminar: Advanced Topics in Quantum Computing (IN2107,IN2183,IN0014) 
 
 
 ## Objective (expected results of study and acquired competences):
@@ -75,19 +71,22 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 ## Relevant dates
 
-- **Preliminary meeting:** TODO (Attendance grants priority for the matching)
+- **Preliminary meeting:**
+	- https://tum-conf.zoom.us/j/68772546202?pwd=QjRScDBqWVViQkFtaUpJWnlJWW9GQT09
+	- Passode: 494871
+	- Date: 06.02.2023, 15:00
 
-- **Kick-off meeting:** TODO
+- **Kick-off meeting:** TBA
 
-- **Research presentation (Day 1):** TODO
+- **Research presentation (Day 1):** TBA
 
-- **Research presentation (Day 2):** TODO
+- **Research presentation (Day 2):** TBA
 
-- **Report due (via HotCRP):** TODO
+- **Report due (via HotCRP):** TBA
 
-- **Peer-review due (via HotCRP):** TODO
+- **Peer-review due (via HotCRP):** TBA
 
-- **Mettings ID:** TODO
+- **Mettings ID:** TBA
 
 
 ## Paper reading list
@@ -109,3 +108,4 @@ We *strongly* prefer slack for all communications. For any further questions/com
 
 - [Emmanouil (Manos) Giortamis](@Manos Giortamis)
 - [Francisco Romão](@Francisco)
+- [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
