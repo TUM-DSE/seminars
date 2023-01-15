@@ -1,4 +1,4 @@
-# Modern Data Center Systems (“sys-seminar”) -- SoSe 2022
+# Modern Data Center Systems (“sys-seminar”) -- SoSe 2023
 
 ## Chair website
 
