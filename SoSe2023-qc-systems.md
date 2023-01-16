@@ -106,6 +106,6 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 
-- [Emmanouil (Manos) Giortamis]([@Manos Giortamis](https://dse.in.tum.de/manos-giortamis/))
+- [Emmanouil Giortamis](https://dse.in.tum.de/manos-giortamis/)
 - [Francisco Romão](@Francisco)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
