@@ -1,4 +1,4 @@
-# Quantum Computing Systems (“qc-systems") -- SoSe 2023
+# Quantum Software Systems (“qc-systems") -- SoSe 2023
 
 ## Chair website
 
