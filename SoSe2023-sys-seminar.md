@@ -46,8 +46,10 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 ## Meeting place
 
 - Preliminary meeting
-   - https://tum-conf.zoom.us/j/5661844438
-   - Meeting ID: 566 184 4438
+   - https://tum-conf.zoom.us/j/65999320139?pwd=K04rdk5JUzhlYU5MaDJpbGNwaW1jZz09
+   - Meeting ID: 659 9932 0139
+   - Passcode: 792842
+
 - The kick-off meeting and research presentations (day 1 and 2)
    - in person (see [Important Dates](#important-dates))
 
@@ -66,7 +68,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** TBD
+- **Preliminary meeting:** Feb 7th, 2022 14:00 PM - 15:00 PM CET
 
 - **Kick-off meeting:** TBD
 
