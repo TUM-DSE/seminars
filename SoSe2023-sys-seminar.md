@@ -7,7 +7,7 @@
 ## Course Information
 - Language: English
 - Type: Seminar Course (Masters)
-- Module: IN0014, IN2107
+- Module: IN0014, IN2107, IN4454
 - Prerequisites:
    - we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background. Please check with the instructor, if you think your background is insufficient. 
    - Additional preferred pre-requisites, but not compulsory courses at TUM:
