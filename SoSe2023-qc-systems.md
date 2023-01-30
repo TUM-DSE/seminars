@@ -76,7 +76,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 	- Passode: 494871
 	- Date: 07.02.2023, 15:00
 
-- **Kick-off meeting:** TBA
+- **Kick-off meeting:** April 19th, 2023, 13:30 PM - 14:30 PM CET
 
 - **Research presentation (Day 1):** TBA
 
