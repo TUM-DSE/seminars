@@ -51,7 +51,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
    - Passcode: 792842
 
 - The kick-off meeting and research presentations (day 1 and 2)
-   - Those meetings will take place in-person: Seminarraum (5607.01.014), 01.07.014.  
+   - Those meetings will take place in-person: 01.07.014, Seminarraum (5607.01.014).   
    - See [Important Dates](#important-dates)
 
 ## Important resources
@@ -69,17 +69,17 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** Tuesday, February 7, 2023 2:00 PM -- 3:00 PM CET
+- **Preliminary meeting:** Tuesday, February 7, 2023 14:00 -- 15:00 CET
 
-- **Kick-off meeting:** Thursday, April 20, 2023 1:30 -- 2:30 PM
+- **Kick-off meeting:** Tuesday, April 18, 2023 13:30 -- 14:30 
 
-- **Research presentation (Day 1):** Thursday, May 25, 2023 1:30 -- 4:00 PM
+- **Research presentation (Day 1):** Monday, May 22, 2023 12:00 -- 14:00 
 
-- **Research presentation (Day 2):** Friday, May 26, 2023 1:30 -- 4:00 PM
+- **Research presentation (Day 2):** Tuesday, May 23, 2023 12:00 -- 14:00 
 
-- **Report due (via HotCRP):** Friday, June 23, 2023 5:00 PM
+- **Report due (via HotCRP):** Friday, June 23, 2023 17:00
 
-- **Peer-review due (via HotCRP):** Friday, July 7, 2023 5:00 PM
+- **Peer-review due (via HotCRP):** Friday, July 7, 2023 17:00
 
 
 ## Paper reading list
