@@ -74,7 +74,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 - **Preliminary meeting:**
 	- https://tum-conf.zoom.us/j/68772546202?pwd=QjRScDBqWVViQkFtaUpJWnlJWW9GQT09
 	- Passode: 494871
-	- Date: 07.02.2023, 15:00
+	- Date: February 7th, 2023, 15:00 PM CET
 
 - **Kick-off meeting:** April 19th, 2023, 13:30 PM - 14:30 PM CET
 
