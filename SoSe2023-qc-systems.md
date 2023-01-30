@@ -78,15 +78,13 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 - **Kick-off meeting:** April 19th, 2023, 13:30 PM - 14:30 PM CET
 
-- **Research presentation (Day 1):** TBA
+- **Research presentation (Day 1):** May 23rd, 2023, 16:00 PM - 18:30 PM CET
 
-- **Research presentation (Day 2):** TBA
+- **Research presentation (Day 2):** May 24th, 2023, 10:00 AM - 12:AM CET
 
-- **Report due (via HotCRP):** TBA
+- **Report due (via HotCRP):** June 21st, 2023, 11:59 PM CET
 
-- **Peer-review due (via HotCRP):** TBA
-
-- **Mettings ID:** TBA
+- **Peer-review due (via HotCRP):** July 5th, 2023, 11:59 PM CET
 
 
 ## Paper reading list
