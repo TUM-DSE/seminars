@@ -74,17 +74,17 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 - **Preliminary meeting:**
 	- https://tum-conf.zoom.us/j/68772546202?pwd=QjRScDBqWVViQkFtaUpJWnlJWW9GQT09
 	- Passode: 494871
-	- Date: February 7th, 2023, 15:00 PM CET
+	- Date: February 7th, 2023, 15:00 CET
 
-- **Kick-off meeting:** April 19th, 2023, 13:30 PM - 14:30 PM CET
+- **Kick-off meeting:** April 19th, 2023, 13:30 - 14:30 CET
 
-- **Research presentation (Day 1):** May 23rd, 2023, 16:00 PM - 18:30 PM CET
+- **Research presentation (Day 1):** May 23rd, 2023, 16:00 - 18:30 CET
 
-- **Research presentation (Day 2):** May 24th, 2023, 10:00 AM - 12:AM CET
+- **Research presentation (Day 2):** May 24th, 2023, 10:00 - 12:00 CET
 
-- **Report due (via HotCRP):** June 21st, 2023, 11:59 PM CET
+- **Report due (via HotCRP):** June 21st, 2023, 23:59 CET
 
-- **Peer-review due (via HotCRP):** July 5th, 2023, 11:59 PM CET
+- **Peer-review due (via HotCRP):** July 5th, 2023, 23:59 CET
 
 
 ## Paper reading list
