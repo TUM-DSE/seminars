@@ -66,7 +66,7 @@ The course grades will be based on student presentations (40% points), a 3-4 pag
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ss-23-qc-systems
+- **Slack channel:** #ss-23-qc-systems-seminar
 
 
 ## Relevant dates
