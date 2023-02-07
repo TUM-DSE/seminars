@@ -6,7 +6,7 @@
 
 ## Course Information
 - Language: English
-- Type: Seminar Course (Masters)
+- Type: Seminar Course
 - Module: IN0014, IN2107, IN4454
 - Prerequisites:
    - we don’t have any compulsory pre-requisites, but we prefer students to be proficient in the basic concepts of operating systems, distributed systems, systems programming (C/C++/Rust), or equivalent background. Please check with the instructor, if you think your background is insufficient. 
@@ -100,5 +100,6 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the course organizer(s):
 - [Dr. Atsushi Koshiba](https://atsushikoshiba.github.io/)
+- [Harshavardhan Unnibhavi](https://harshanavkis.github.io/)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
 
