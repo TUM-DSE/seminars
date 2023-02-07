@@ -75,6 +75,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 	- https://tum-conf.zoom.us/j/68772546202?pwd=QjRScDBqWVViQkFtaUpJWnlJWW9GQT09
 	- Passode: 494871
 	- Date: February 7th, 2023, 15:00 CET
+	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
 
 - **Kick-off meeting:** April 18th, 2023, 14:30 - 15:30 CET
 
