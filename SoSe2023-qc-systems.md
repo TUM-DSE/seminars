@@ -68,6 +68,19 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 - **Slack workspace:** https://ls1-courses-tum.slack.com
 - **Slack channel:** #ss-23-qc-systems-seminar
 
+## Important resources
+
+Please carefully go over the following resources to prepare for the seminar:
+
+- [Overview](docs/qc-systems-overview.pdf)
+- [Paper reading](docs/paper-reading.pdf)
+- [Presentation](docs/presentation.pdf)
+- [Report](docs/report.pdf)
+- [Participation](docs/participation.pdf)
+- [Peer reviewing](docs/peer-review.pdf)
+- [Grading](docs/grading.pdf)
+- [System building](docs/system-building.pdf) (Optional)
+
 
 ## Relevant dates
 
