@@ -33,7 +33,7 @@ The students will read, discuss, and analyze recent papers in the top conference
 
 ## Registration
 
-- **Capacity:** We plan to have at most 24 places in the seminar.
+- **Capacity:** We plan to have at most 12 places in the seminar.
 - **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you will need to inform us before the registration deadline.  
 
 ## Slack workspace
