@@ -2,7 +2,7 @@
 
 ## Chair website
 
-- The seminar is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
+- The seminar is organized by the [Chair of Distributed Systems and Operating Systems](https://dos.cit.tum.de/) at TU Munich.
 
 ## Course Information
 - Language: English
