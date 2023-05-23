@@ -98,10 +98,6 @@ Please carefully go over the following resources to prepare for the seminar:
 	- May 23rd, 2023, 16:00 - 18:30 CET
 	- Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 2):** 
-	- May 24th, 2023, 10:00 - 12:00 CET
-	- Location: 02.07.014, Seminarraum (5607.02.014)
-
 - **Report due (via HotCRP):** June 21st, 2023, 23:59 CET
 
 - **Peer-review due (via HotCRP):** July 5th, 2023, 23:59 CET
