@@ -112,8 +112,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 We will manage the submission and peer-reviewing of reports via HotCRP:
 
-- TODO
-~~- [HotCRP portal](https://tum-ss2021.hotcrp.com/) ~~
+- [HotCRP portal](https://tum-ss2021.hotcrp.com/)
 
 
 ## Contact
