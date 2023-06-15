@@ -1,4 +1,4 @@
-# Operating Systems and Virtualization (“os-virtualize-seminar”) -- WiSe 2023-24
+# Accelerated Computing Systems (“acc-systems-seminar”) -- WiSe 2023-24
 
 ## Chair website
 
