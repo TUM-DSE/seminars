@@ -72,9 +72,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Kick-off meeting:** Oct 19th, 2023 15:00 PM - 16:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 1):** Nov 14th 13:00 PM - 16:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 1):** Nov 15th 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 2):** Nov 21st 13:00 PM - 16:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 2):** Nov 22nd 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
 - **Report due (via HotCRP):** Jan 11th 24:00 PM CET
 
