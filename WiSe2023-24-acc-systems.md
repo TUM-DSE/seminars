@@ -48,8 +48,8 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 ## Meeting place
 
 - Preliminary meeting
-   - https://tum-conf.zoom.us/j/63927788975?pwd=YTk5VWthYmZ0Z1ptZXFKNFFyN1V1QT09
-   - Meeting ID: 639 2778 8975 (Passcode: 693506)
+   - https://tum-conf.zoom.us/j/66302003533?pwd=VFpjTm1HN0pteURLMmx3dm12dVZEdz09
+   - Meeting ID: 663 0200 3533 (Passcode: 474757)
 - The kick-off meeting and research presentations (day 1 and 2)
    - in person (see [Important Dates](#important-dates))
 
