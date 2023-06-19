@@ -85,8 +85,8 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Relevant dates
 
 - **Preliminary meeting:**
-	- Link: 
-	- Passode: 
+	- Link: https://tum-conf.zoom.us/j/64647364360?pwd=Ny91aDBZamQxMHA3cU5pbTZqZS9odz09
+	- Passode: 924557
 	- Date: July 6th, 2023 16:00 PM CEST
 	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
 
