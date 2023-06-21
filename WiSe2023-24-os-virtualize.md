@@ -63,7 +63,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** July 6th, 2023 14:00 AM CET
+- **Preliminary meeting:** July 5th, 2023 15:00 AM CET
 
 - **Kick-off meeting:** Oct 23th, 2023 14:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
