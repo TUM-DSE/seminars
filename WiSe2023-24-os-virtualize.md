@@ -47,6 +47,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
    - Meeting ID: 639 2778 8975 (Passcode: 693506)
 - The kick-off meeting and research presentations (day 1 and 2)
    - in person (see [Important Dates](#important-dates))
+   - Attendance is mandatory
 
 ## Important resources
 
@@ -65,7 +66,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Preliminary meeting:** July 5th, 2023 15:00 PM CET
 
-- **Kick-off meeting:** Oct 23th, 2023 14:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Kick-off meeting:** Oct 19th, 2023 14:00 PM - 15:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentation (Day 1):** Nov 14th 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
