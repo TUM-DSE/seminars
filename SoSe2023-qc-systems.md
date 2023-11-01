@@ -1,8 +1,8 @@
-# Quantum Software Systems (“qc-systems") -- SoSe 2023
+# Quantum Software Systems (“qc-systems") -- SoSe 2024
 
 ## Chair website
 
-The seminar is organized by the [Chair of Distributed Systems & Operating Systems](https://dse.in.tum.de/) at TU Munich.
+The seminar is organized by the [Chair of Computer Systems](https://dse.in.tum.de/) at TU Munich.
 
 ## Course Information
 
