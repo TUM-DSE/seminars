@@ -1,4 +1,4 @@
-# Confidential Cloud Computing (“confidential-cloud-seminar”) -- SoSe 2024
+# Confidential Cloud Computing (“c3-seminar”) -- SoSe 2024
 
 ## Chair website
 
@@ -43,7 +43,7 @@ The students will read, discuss, and analyze recent papers in the top conference
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ss-24-confidential-cloud
+- **Slack channel:** #ss-24-c3-seminar
 
 ## Meeting place
 
@@ -57,7 +57,7 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](docs/confidential-cloud-overview.pdf)
+- [Overview](docs/c3-seminar-overview.pdf)
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
 - [Report](docs/report.pdf)
