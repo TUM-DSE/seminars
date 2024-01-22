@@ -72,9 +72,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Kick-off meeting:** Thursday, April 18th, 2024 13:00 PM - 14:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 1):** Wednesday, May 23rd 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 1):** Wednesday, May 22nd 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 2):** Thursday, May 24th 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 2):** Thursday, May 23rd 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
 - **Report due (via HotCRP):** Monday, June 24th 24:00 PM CET
 
