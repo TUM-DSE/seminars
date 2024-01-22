@@ -68,17 +68,17 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Important dates
 
-- **Preliminary meeting:** February 1st, 2024 11:30 AM CET
+- **Preliminary meeting:** Thursday, February 1st, 2024 11:30 AM CET
 
-- **Kick-off meeting:** April XXth, 2024 XX:00 PM - XX:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Kick-off meeting:** Thursday, April 18th, 2024 13:00 PM - 14:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 1):** May XXth 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 1):** Wednesday, May 23rd 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 2):** May XXth 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
+- **Research presentation (Day 2):** Thursday, May 24th 14:00 PM - 17:00 PM CET, 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** June XXth 24:00 PM CET
+- **Report due (via HotCRP):** Monday, June 24th 24:00 PM CET
 
-- **Peer-review due (via HotCRP):** July XXth 24:00 PM CET
+- **Peer-review due (via HotCRP):** Monday, July 8th 24:00 PM CET
 
 
 ## Paper reading list
