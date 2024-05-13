@@ -90,15 +90,15 @@ Please carefully go over the following resources to prepare for the seminar:
 	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
 
 - **Kick-off meeting:** 
-	- April 18th, 2023, 14:00 - 15:00 CET
+	- April 18th, 2023, 15:00 - 16:00 CET
 	- Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentation (Day 1):**
-	- May 21rd, 2023, 14:00 - 17:00 CET
+	- May 24rd, 2023, 14:00 - 17:00 CET
 	- Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentation (Day 2):**
-	- May 22rd, 2023, 14:00 - 17:00 CET
+	- May 31rd, 2023, 14:00 - 17:00 CET
 	- Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Report due (via HotCRP):** June 23rd, 2023, 17:00 CET
