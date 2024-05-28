@@ -95,6 +95,8 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Paper reading list
 
+Please use the following list to select a paper (FCFS): 
+
 - The list of papers will be released on Slack *in the first week* of the course.
 
 
