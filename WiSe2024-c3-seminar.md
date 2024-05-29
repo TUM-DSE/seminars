@@ -35,7 +35,7 @@ The course will cover a range of topics including:
 - Operating systems and hypervisors
 - Fault-tolerant and reliable systems
 
-The students will read, discuss, and analyze recent papers in the top conferences of this field, such as OSDI, EuroSys, ASPLOS, USENIX Security, IEEE S&P, and ACM CCS.
+The students will read, discuss, and analyze recent papers in the top conferences of this field, such as OSDI, EuroSys, ASPLOS, USENIX Security, IEEE S&P, NDSS, and ACM CCS.
 Students are expected to read papers in-depth prior to class and take turns in preparing and delivering high-quality presentations of the papers. 
 Furthermore, the students will actively participate in the discussion to critically analyze the systems, and propose (or even implement) advancements of the state-of-the-art. 
 More concretely, the students will learn:
