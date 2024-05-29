@@ -2,7 +2,7 @@
 
 ## Chair website
 
-- The seminar is organized by the [Chair of Computer Systems](https://dse.in.tum.de/) at TU Munich.
+- The seminar is organized by the [Systems Research Group](https://dse.in.tum.de/) at TU Munich.
 
 ## Course Information
 - **Language:** English
