@@ -81,11 +81,11 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Important dates
 
 - **Preliminary meeting:**
-	- https://tum-conf.zoom-x.de/j/63406806218?pwd=mNt53SEy7eWNCxKUhvO6ogfbsCUaa8.1
-	- Meeting ID: 634 0680 6218
+  - https://tum-conf.zoom-x.de/j/63406806218?pwd=mNt53SEy7eWNCxKUhvO6ogfbsCUaa8.1
+  - Meeting ID: 634 0680 6218
   - Passcode: 913834
-	- Date: July 4th, 2024, 16:00 CET
-	- Meeting slides: [Confidential Cloud Computing Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/c3-overview.pdf)
+  - Date: July 4th, 2024, 16:00 CET
+  - Meeting slides: [Confidential Cloud Computing Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/c3-overview.pdf)
 
 - **Kick-off meeting:** To be announced
 
