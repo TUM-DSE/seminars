@@ -123,5 +123,5 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 
-- [Oğuzcan Kırmemiş](@Oğuzcan Kırmemiş)
+- Oğuzcan Kırmemiş
 - [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)
