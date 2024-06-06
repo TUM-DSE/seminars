@@ -85,9 +85,9 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Relevant dates
 
 - **Preliminary meeting:**
-	- Link: TBA
-	- Passode: TBA
-	- Date: TBA
+	- Link: https://tum-conf.zoom-x.de/j/66541659986?pwd=JC1hdHFnDKGYxD7F9LQHE2fqx5aP7b.1
+	- Passode: 653100
+	- Date: July 4, 2024 15:00
 	- Meeting slides: TBA
 
 - **Kick-off meeting:** 
