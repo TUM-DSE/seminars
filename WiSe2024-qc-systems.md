@@ -2,12 +2,12 @@
 
 ## Chair website
 
-The seminar is organized by the [Chair of Computer Systems](https://dse.in.tum.de/) at TU Munich.
+The seminar is organized by the [Systems Research Group](https://dse.in.tum.de/) at TU Munich.
 
 ## Course Information
 
 - **Language:** English
-- **Module:** IN0014, IN2107 
+- **Module:** IN0014, IN2107, IN45016
 - **Prerequisites:** 
   - Basic operating systems principles: Operating Systems and System Software (IN0009) or equivalent.
   - Additional preferred pre-requisites, but not compulsory courses at TUM:
@@ -25,6 +25,7 @@ Quantum computing promises exponential speedup on certain problems that are othe
 - Hybrid classical-quantum computing
 - Divide-and-conquer approaches for scalable QC
 - Software-based noise mitigation techniques
+- Emerging quantum computing hardware
 - Quantum resource management
 
 The students will be able to build on their knowledge of recent advances in software systems that scale quantum computing including compilers, operating systems and optimization.
@@ -44,7 +45,7 @@ The students will read, discuss, and analyze recent papers in quantum software s
 We will assign papers for discussion and research study. The students will work in a team of two students. More specifically, the course will be organized in three stages:
 1. Papers presentation phase: In this phase, the students will present the research papers assigned to them. They should clearly understand and explain the context of the work, contributions, and potential future work.
 2. Research phase: In the second phase, the student will work on the identified research problem statement. The research phase should clearly motivate the research problem, and also should clearly explain the research methodology to solve the problem.
-3. Reports and peer-review:  As the last phase, the students are expected to submit a report summarizing the presented paper and the research proposal. Further, we will be using the state-of-the-art reviewing system (hotcrp) for peer-review of the reports. In the peer-review process, the students are expected to give feedback covering the positive and critical aspects.
+3. Reports and peer-review: As the last phase, the students are expected to submit a report summarizing the presented paper and the research proposal. Further, we will be using the state-of-the-art reviewing system (hotcrp) for peer-review of the reports. In the peer-review process, the students are expected to give feedback covering the positive and critical aspects.
 	
 We recommend that the students devote roughly equal amounts of time for each of these phases. It is the responsibility of the presenters to manage the discussion and cover the various questions within this time.
 Finally, the fellow participants are expected to read the paper and engage the presenters in an active discussion.
@@ -66,7 +67,7 @@ The course grades will be based on student presentations (40% points), a 3-4 pag
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ss-23-qc-systems-seminar
+- **Slack channel:** TBA
 
 ## Important resources
 
@@ -81,26 +82,29 @@ Please carefully go over the following resources to prepare for the seminar:
 - [Grading](docs/grading.pdf)
 - [System building](docs/system-building.pdf) (Optional)
 
-
 ## Relevant dates
 
 - **Preliminary meeting:**
-	- https://tum-conf.zoom.us/j/68772546202?pwd=QjRScDBqWVViQkFtaUpJWnlJWW9GQT09
-	- Passode: 494871
-	- Date: February 7th, 2023, 15:00 CET
-	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
+	- Link: https://tum-conf.zoom-x.de/j/66541659986?pwd=JC1hdHFnDKGYxD7F9LQHE2fqx5aP7b.1
+	- Passode: 653100
+	- Date: July 4, 2024 15:00
+	- Meeting slides: TBA
 
 - **Kick-off meeting:** 
-	- April 18th, 2023, 14:30 - 15:30 CET
-	- Location: 01.07.014, Seminarraum (5607.01.014)
+	- TBA
+	- Location: TBA
 
 - **Research presentation (Day 1):**
-	- May 23rd, 2023, 16:00 - 18:30 CET
-	- Location: 01.07.014, Seminarraum (5607.01.014)
+	- When: TBA
+	- Location: TBA
 
-- **Report due (via HotCRP):** June 23rd, 2023, 17:00 CET
+- **Research presentation (Day 2):**
+	- When: TBA
+	- Location: TBA
 
-- **Peer-review due (via HotCRP):** July 7th, 2023, 17:00 CET
+- **Report due (via HotCRP):** TBA
+
+- **Peer-review due (via HotCRP):** TBA
 
 
 ## Paper reading list
@@ -119,6 +123,5 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 
-- [Emmanouil Giortamis](https://dse.in.tum.de/manos-giortamis/)
-- [Francisco Romão](@Francisco)
-- [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
+- Oğuzcan Kırmemiş
+- [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)

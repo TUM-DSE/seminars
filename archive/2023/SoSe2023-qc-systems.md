@@ -1,8 +1,8 @@
-# Quantum Software Systems (“qc-systems") -- WiSe 2023-24
+# Quantum Software Systems (“qc-systems") -- SoSe 2023
 
 ## Chair website
 
-The seminar is organized by the [Chair of Distributed Systems & Operating Systems](https://dse.in.tum.de/) at TU Munich.
+The seminar is organized by the [Chair of Computer Systems](https://dse.in.tum.de/) at TU Munich.
 
 ## Course Information
 
@@ -66,7 +66,7 @@ The course grades will be based on student presentations (40% points), a 3-4 pag
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ws-23-qc-systems-seminar
+- **Slack channel:** #ss-23-qc-systems-seminar
 
 ## Important resources
 
@@ -85,26 +85,22 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Relevant dates
 
 - **Preliminary meeting:**
-	- Link: https://tum-conf.zoom.us/j/64647364360?pwd=Ny91aDBZamQxMHA3cU5pbTZqZS9odz09
-	- Passode: 924557
-	- Date: July 6th, 2023 16:00 PM CEST
+	- https://tum-conf.zoom.us/j/68772546202?pwd=QjRScDBqWVViQkFtaUpJWnlJWW9GQT09
+	- Passode: 494871
+	- Date: February 7th, 2023, 15:00 CET
 	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
 
 - **Kick-off meeting:** 
-	- October 19th, 2023 16:00 PM - 17:00 PM CET
+	- April 18th, 2023, 14:30 - 15:30 CET
 	- Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentation (Day 1):**
-	- November 16th 14:00 PM - 17:00 PM CET
-	- Location: 01.07.014, Seminarraum (5607.01.014)
-    
-- **Research presentation (Day 2):**
-	- November 23rd 14:00 PM - 17:00 PM CET
+	- May 23rd, 2023, 16:00 - 18:30 CET
 	- Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** January 11th 24:00 PM CET
+- **Report due (via HotCRP):** June 23rd, 2023, 17:00 CET
 
-- **Peer-review due (via HotCRP):** January 25th 24:00 PM CET
+- **Peer-review due (via HotCRP):** July 7th, 2023, 17:00 CET
 
 
 ## Paper reading list
@@ -123,6 +119,6 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 
-- [Francisco Romão](@Francisco)
 - [Emmanouil Giortamis](https://dse.in.tum.de/manos-giortamis/)
+- [Francisco Romão](@Francisco)
 - [Prof. Bhatotia](https://dse.in.tum.de/bhatotia/)
