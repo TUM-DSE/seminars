@@ -86,9 +86,9 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Preliminary meeting:**
 	- Link: https://tum-conf.zoom-x.de/j/66541659986?pwd=JC1hdHFnDKGYxD7F9LQHE2fqx5aP7b.1
-	- Passode: 653100
+	- Passcode: 653100
 	- Date: July 4, 2024 15:00
-	- Meeting slides: TBA
+	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
 
 - **Kick-off meeting:** 
 	- TBA
