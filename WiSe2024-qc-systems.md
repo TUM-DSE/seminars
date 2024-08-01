@@ -1,4 +1,4 @@
-# Quantum Software Systems (“qc-systems") -- SoSe 2024
+# Quantum Software Systems (“qc-systems") -- WiSe 2024
 
 ## Chair website
 
