@@ -67,7 +67,7 @@ The course grades will be based on student presentations (40% points), a 3-4 pag
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ws-24-qc-systems
+- **Slack channel:** TBA
 
 ## Important resources
 
@@ -91,12 +91,16 @@ Please carefully go over the following resources to prepare for the seminar:
 	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
 
 - **Kick-off meeting:** 
-	- When: October 17, 2024 15:00
-	- Location: MI 01.07.014
+	- TBA
+	- Location: TBA
 
-- **Research presentation:**
-	- When: November 14, 2024 9:00 
-	- Location: MI 01.07.014
+- **Research presentation (Day 1):**
+	- When: TBA
+	- Location: TBA
+
+- **Research presentation (Day 2):**
+	- When: TBA
+	- Location: TBA
 
 - **Report due (via HotCRP):** TBA
 
@@ -119,7 +123,6 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 
-- Aleksandra Świerkowska
 - Francisco Romão
 - Manos Giortamis
 - [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)
