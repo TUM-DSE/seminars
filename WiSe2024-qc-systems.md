@@ -98,9 +98,9 @@ Please carefully go over the following resources to prepare for the seminar:
 	- When: November 14, 2024 9:00 
 	- Location: MI 01.07.014
 
-- **Report due (via HotCRP):** TBA
+- **Report due (via HotCRP):** January 9, 2025 23:59 
 
-- **Peer-review due (via HotCRP):** TBA
+- **Peer-review due (via HotCRP):** January 23, 2025 23:59 
 
 
 ## Paper reading list
