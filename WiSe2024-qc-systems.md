@@ -114,6 +114,8 @@ We will manage the submission and peer-reviewing of reports via HotCRP:
 
 - [HotCRP portal](https://tum-ss2021.hotcrp.com/)
 
+Please ensure that the email addresses used for submissions are the same as those on which the invitation to sign was received.
+
 
 ## Contact
 
