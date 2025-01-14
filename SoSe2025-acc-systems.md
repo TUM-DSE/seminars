@@ -8,7 +8,7 @@ The seminar is organized by the [Systems Research Group](https://dse.in.tum.de/)
 
 - **Language:** English
 - **Type:** Seminar Course (BSc and MSc)
-- **Module:** IN0014, IN2107
+- **Module:** IN0014, IN2107, IN45035
 - **Prerequisites:**
     - we do not have any compulsory prerequisites, but we prefer students to be proficient in the basic concepts of accelerators (GPU/FPGA), parallel computing (OpenMP/CUDA/OpenCL), operating systems (particularly device drivers), virtualization technology, or equivalent background. Please check with the instructor, if you think your background is insufficient. 
     - Additional preferred pre-requisites, but not compulsory courses at TUM:
