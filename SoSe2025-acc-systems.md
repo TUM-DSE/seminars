@@ -92,7 +92,7 @@ Please carefully go over the following resources to prepare for the seminar:
     - Date: Feb XX (TBD), 2025, 15:00 CET
     - Link: https://tum-conf.zoom-x.de/j/66910972653?pwd=8AAosQjdwH55vHBdMvNQObjPNceuuk.1
     - Passcode: 855713
-    - Meeting slides: (TBD)
+    - Meeting slides: [Accelerated Computing Systems Overview](docs/acc-systems-overview.pdf)
 
 - **Kick-off meeting:** 
     - Date: April XX (TBD), 2025, 15:00 - 16:00 CET
