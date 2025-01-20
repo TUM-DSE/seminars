@@ -89,26 +89,26 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Important dates
 
 - **Preliminary meeting (online):** 
-    - Date: Feb 4, 2025, 13:00 - 13:30 CET
+    - Date: Feb 4 (Tue), 2025, 13:00 - 13:30 CET
     - Link: https://tum-conf.zoom-x.de/j/66910972653?pwd=8AAosQjdwH55vHBdMvNQObjPNceuuk.1
     - Passcode: 855713
     - Meeting slides: [Accelerated Computing Systems Overview](docs/acc-systems-overview.pdf)
 
 - **Kick-off meeting:** 
-    - Date: April 24, 2025, 14:00 - 15:00 CET
+    - Date: April 24 (Thu), 2025, 14:00 - 15:00 CET
     - Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentation (Day 1):** 
-    - Date: May 30, 2025, 13:00 - 16:30 CET
+    - Date: June 5 (Thu), 2025, 13:00 - 16:30 CET
     - Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentation (Day 2):** 
-    - Date: June 6, 2025, 13:00 - 16:30 CET
+    - Date: June 12 (Thu), 2025, 13:00 - 16:30 CET
     - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** June 27, 2025, 23:59 CET
+- **Report due (via HotCRP):** June 27 (Fri), 2025, 23:59 CET
 
-- **Peer-review due (via HotCRP):** July 11, 2025, 23:59 CET
+- **Peer-review due (via HotCRP):** July 11 (Fri), 2025, 23:59 CET
 
 
 ## Paper reading list
