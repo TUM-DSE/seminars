@@ -1,4 +1,4 @@
-# Quantum Software Systems (“qc-systems") -- WiSe 2024
+# Quantum Software Systems (“qc-systems") -- SoSe 2025
 
 ## Chair website
 
@@ -67,7 +67,7 @@ The course grades will be based on student presentations (40% points), a 3-4 pag
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ws-24-qc-systems
+- **Slack channel:** #ss-25-qc-systems
 
 ## Important resources
 
@@ -84,23 +84,15 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Relevant dates
 
-- **Preliminary meeting:**
-	- Link: https://tum-conf.zoom-x.de/j/66541659986?pwd=JC1hdHFnDKGYxD7F9LQHE2fqx5aP7b.1
-	- Passcode: 653100
-	- Date: July 4, 2024 15:00
-	- Meeting slides: [Quantum Software Systems Overview](https://github.com/TUM-DSE/seminars/blob/master/docs/qc-systems-overview.pdf)
+- **Preliminary meeting:** TBD
 
-- **Kick-off meeting:** 
-	- When: October 17, 2024 15:00
-	- Location: MI 01.07.014
+- **Kick-off meeting:** TBD
 
-- **Research presentation:**
-	- When: November 14, 2024 9:00 
-	- Location: MI 01.07.014
+- **Research presentation:** TBD
 
-- **Report due (via HotCRP):** January 9, 2025 23:59 
+- **Report due (via HotCRP):** TBD 
 
-- **Peer-review due (via HotCRP):** January 23, 2025 23:59 
+- **Peer-review due (via HotCRP):** TBD
 
 
 ## Paper reading list
