@@ -85,10 +85,9 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Relevant dates
 
 - **Preliminary meeting:**:
-https://tum-conf.zoom-x.de/j/65073221490?pwd=M9jsyX8esMbqVHVXMItUMT03xyQWnz.1
-Passcode: 0
-
-Time: Feb 4th, 2025 15:00
+-- Time: Feb 4th, 2025 15:00
+-- https://tum-conf.zoom-x.de/j/65073221490?pwd=M9jsyX8esMbqVHVXMItUMT03xyQWnz.1
+-- Passcode: 0
 
 - **Kick-off meeting:** TBD
 
@@ -117,7 +116,7 @@ Please ensure that the email addresses used for submissions are the same as thos
 
 We *strongly* prefer slack for all communications. For any further questions/comments, please contact the seminar organizer(s):
 
-- [[Aleksandra Świerkowska](https://aswierkowska.github.io/)
+- [Aleksandra Świerkowska](https://aswierkowska.github.io/)
 - [Francisco Romão](https://franciscoromao.github.io/)
 - [Manos Giortamis](https://manosgior.github.io/)
 - [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)
