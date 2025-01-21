@@ -85,9 +85,9 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Relevant dates
 
 - **Preliminary meeting:**:
--- Time: Feb 4th, 2025 15:00
--- https://tum-conf.zoom-x.de/j/65073221490?pwd=M9jsyX8esMbqVHVXMItUMT03xyQWnz.1
--- Passcode: 0
+	- Time: Feb 4th, 2025 15:00
+	- https://tum-conf.zoom-x.de/j/65073221490?pwd=M9jsyX8esMbqVHVXMItUMT03xyQWnz.1
+	- Passcode: 0
 
 - **Kick-off meeting:** TBD
 
