@@ -89,7 +89,9 @@ Please carefully go over the following resources to prepare for the seminar:
 	- https://tum-conf.zoom-x.de/j/65073221490?pwd=M9jsyX8esMbqVHVXMItUMT03xyQWnz.1
 	- Passcode: 0
 
-- **Kick-off meeting:** TBD
+- **Kick-off meeting (in-person):**
+    - Time: April 24th, 2025 13:00 - 14:00
+    - Room: 5607.01.014
 
 - **Research presentation:** TBD
 
