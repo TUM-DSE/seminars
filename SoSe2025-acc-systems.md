@@ -98,17 +98,13 @@ Please carefully go over the following resources to prepare for the seminar:
     - Date: April 24 (Thu), 2025, 14:00 - 15:00 CET
     - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation (Day 1):** 
-    - Date: June 5 (Thu), 2025, 13:00 - 16:30 CET
-    - Location: 01.07.014, Seminarraum (5607.01.014)
-
-- **Research presentation (Day 2):** 
+- **Research presentation:** 
     - Date: June 12 (Thu), 2025, 13:00 - 16:30 CET
     - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** July 4 (Fri), 2025, 23:59 CET
+- **Report due (via HotCRP):** July 11 (Fri), 2025, 23:59 CET
 
-- **Peer-review due (via HotCRP):** July 18 (Fri), 2025, 23:59 CET
+- **Peer-review due (via HotCRP):** July 25 (Fri), 2025, 23:59 CET
 
 
 ## Paper reading list
@@ -127,7 +123,7 @@ Please ensure that the email addresses used for submissions are the same as thos
 
 ## Contact
 
-We *strongly* prefer slack for all communications. For any further questions/comments, please contact the course organizer(s):
+We *strongly* prefer Slack for all communications. For any further questions/comments, please contact the course organizer(s):
 - [Dr. Atsushi Koshiba](https://atsushikoshiba.github.io/)
 - [Prof. Pramod Bhatotia](https://dse.in.tum.de/bhatotia/)
 
