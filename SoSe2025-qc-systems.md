@@ -92,8 +92,10 @@ Please carefully go over the following resources to prepare for the seminar:
 - **Kick-off meeting (in-person):**
     - Time: April 24th, 2025 13:00 - 14:00
     - Room: 5607.01.014
+    - [Presentation](docs/qc-systems-overview.pdf)
 
-- **Research presentation:** TBD
+- **Research presentation:**
+    - Date: May 22nd, 2025 
 
 - **Report due (via HotCRP):** TBD 
 
