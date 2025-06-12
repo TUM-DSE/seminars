@@ -102,9 +102,9 @@ Please carefully go over the following resources to prepare for the seminar:
     - Date: June 12 (Thu), 2025, 13:00 - 16:30 CET
     - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** July 11 (Fri), 2025, 23:59 CET
+- **Report due (via HotCRP):** July 18 (Fri), 2025, 23:59 CET
 
-- **Peer-review due (via HotCRP):** July 25 (Fri), 2025, 23:59 CET
+- **Peer-review due (via HotCRP):** August 1 (Fri), 2025, 23:59 CET
 
 
 ## Paper reading list
