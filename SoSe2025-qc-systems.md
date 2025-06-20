@@ -97,9 +97,9 @@ Please carefully go over the following resources to prepare for the seminar:
 - **Research presentation:**
     - Date: May 22nd, 2025 
 
-- **Report due (via HotCRP):** TBD 
+- **Report due (via HotCRP):** June 19th, 2025 
 
-- **Peer-review due (via HotCRP):** TBD
+- **Peer-review due (via HotCRP):** July 3rd, 2025 
 
 
 ## Paper reading list
