@@ -90,7 +90,8 @@ Please carefully go over the following resources to prepare for the seminar:
 	- Date: July 10, 2025 13:00
 
 - **Kick-off meeting:** 
-	- TBA
+	- Place: 5607.01.014
+    - Date: October 16, 2025 14:30
 
 - **Research presentation:**
 	- TBA
