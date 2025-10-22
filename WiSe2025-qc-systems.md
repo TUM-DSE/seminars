@@ -42,7 +42,7 @@ The students will read, discuss, and analyze recent papers in quantum software s
 
 ## Teaching and learning method (transfer of skills) workload for students:
 
-We will assign papers for discussion and research study. The students will work in a team of two students. More specifically, the course will be organized in three stages:
+We will assign papers for discussion and research study. More specifically, the course will be organized in three stages:
 1. Papers presentation phase: In this phase, the students will present the research papers assigned to them. They should clearly understand and explain the context of the work, contributions, and potential future work.
 2. Research phase: In the second phase, the student will work on the identified research problem statement. The research phase should clearly motivate the research problem, and also should clearly explain the research methodology to solve the problem.
 3. Reports and peer-review: As the last phase, the students are expected to submit a report summarizing the presented paper and the research proposal. Further, we will be using the state-of-the-art reviewing system (hotcrp) for peer-review of the reports. In the peer-review process, the students are expected to give feedback covering the positive and critical aspects.
