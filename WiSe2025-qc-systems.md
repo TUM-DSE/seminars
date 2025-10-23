@@ -67,7 +67,7 @@ The course grades will be based on student presentations (40% points), a 3-4 pag
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** TBA
+- **Slack channel:** #ws-25-qc-systems
 
 ## Important resources
 
@@ -94,7 +94,9 @@ Please carefully go over the following resources to prepare for the seminar:
     - Date: October 16, 2025 14:30
 
 - **Research presentation:**
-	- TBA
+	- Place: 5607.01.014
+    - Date: November 13, 2025 9:00
+
 
 - **Report due (via HotCRP):** TBA
 
