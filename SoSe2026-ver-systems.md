@@ -128,7 +128,7 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Important dates
 
 - **Preliminary meeting (online):**
-    - Date: Feb 4 (Tue), 2026, 16:00 - 16:30 CET
+    - Date: Feb 5 (Thu), 2026, 15:30 - 16:00 CET
     - Link: https://tum-conf.zoom-x.de/j/69557696639?pwd=eBefsOfJrviEIKlUWG9GAUOPbdewCG.1
     - Passcode: 12345
     - Meeting slides: [Verification in Systems Overview](docs/ver-systems-overview.pdf)
