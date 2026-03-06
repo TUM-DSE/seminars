@@ -115,7 +115,7 @@ TUM email address.
 
 Please carefully go over the following resources to prepare for the seminar:
 
-- [Overview](docs/acc-systems-overview.pdf)
+- [Overview](docs/ver-sys-seminar-overview.pdf)
 - [Paper reading](docs/paper-reading.pdf)
 - [Presentation](docs/presentation.pdf)
 - [Report](docs/report.pdf)
