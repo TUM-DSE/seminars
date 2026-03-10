@@ -131,7 +131,7 @@ Please carefully go over the following resources to prepare for the seminar:
     - Date: Feb 5 (Thu), 2026, 15:30 - 16:00 CET
     - Link: https://tum-conf.zoom-x.de/j/69557696639?pwd=eBefsOfJrviEIKlUWG9GAUOPbdewCG.1
     - Passcode: 12345
-    - Meeting slides: [Verification in Systems Overview](docs/ver-systems-overview.pdf)
+    - Meeting slides: [Verification in Systems Overview](docs/ver-sys-seminar-overview.pdf)
 
 - **Kick-off meeting:**
     - Date: ~~April 24 (Thu), 2025, 14:00 - 15:00 CET~~ (**TBD**)
