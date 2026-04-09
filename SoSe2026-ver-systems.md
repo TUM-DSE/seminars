@@ -134,16 +134,20 @@ Please carefully go over the following resources to prepare for the seminar:
     - Meeting slides: [Verification in Systems Overview](docs/ver-systems-overview.pdf)
 
 - **Kick-off meeting:**
-    - Date: ~~April 24 (Thu), 2025, 14:00 - 15:00 CET~~ (**TBD**)
-    - Location: ~~01.07.014, Seminarraum (5607.01.014)~~  (**TBD**)
+    - Date: April 16 (Thu), 2026, 13:00 - 15:00 CET
+    - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Research presentation:**
-    - Date: ~~June 12 (Thu), 2025, 13:00 - 16:30 CET~~ (**TBD**)
-    - Location: ~~01.07.014, Seminarraum (5607.01.014)~~ (**TBD**)
+- **Paper presentations:**
+    - Date: May 7, May 14 & May 21 (Thu), 2026, 13:00 - 15:00 CET
+    - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** ~~July 18 (Fri), 2025, 23:59 CET~~ (**TBD**)
+- **Research presentations:**
+    - Date: June 4, June 11 & June 18 (Thu), 2026, 13:00 - 15:00 CET
+    - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Peer-review due (via HotCRP):** ~~August 1 (Fri), 2025, 23:59 CET~~ (**TBD**)
+- **Report due (via HotCRP):** July 10 (Fri), 2026, 23:59 CET
+
+- **Peer-review due (via HotCRP):** July 24 (Fri), 2026, 23:59 CET
 
 
 ## Paper reading list
@@ -155,7 +159,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 We will manage the submission and peer-reviewing of reports via HotCRP:
 
-- [HotCRP portal](https://tum-ss2021.hotcrp.com/)
+- [HotCRP portal](https://tum-versys-s26.hotcrp.com/)
 
 Please ensure that the email addresses used for submissions are the same as those on which the
 invitation to sign was received.
@@ -164,7 +168,8 @@ invitation to sign was received.
 ## Contact
 
 We *strongly* prefer Slack for all communications. For any further questions/comments, please
-contact the course organizer(s):
+contact the course organizer(s). Please use your official TUM e-mail address and include your
+student number:
 - [Prof. Dr. Reto Achermann](https://www.retoachermann.ch)
 
 
