@@ -3,11 +3,8 @@
 ## 2026
 
 - [Summer: Verification in Systems](SoSe2026-ver-systems.md)
+- [Winter: Quantum Software Systems](WiSe2026-qc-systems.md)
 
-
-## 2025
-
-- [Winter: Quantum Software Systems](WiSe2025-qc-systems.md)
 
 
 ## Previous Years
