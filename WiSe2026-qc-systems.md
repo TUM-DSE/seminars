@@ -85,9 +85,8 @@ Please carefully go over the following resources to prepare for the seminar:
 ## Relevant dates
 
 - **Preliminary meeting (Online):**
-	- Link: TBA
-	- Passcode: TBA
-	- Date: TBA
+	- Link: https://bbb.cit.tum.de/rooms/lpf-mwp-oue-zdy/join
+	- Date: July 9 (Thu), 2026, 11:00 - 11:30 CET
 
 - **Kick-off meeting:** 
 	- Place: 5607.01.014
