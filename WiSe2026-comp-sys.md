@@ -36,7 +36,7 @@ This course will introduce advanced topics in computer systems, including operat
 The participants will be able to build on their knowledge in the core courses and apply the fundamental course concepts in the recent advances in the broad field of computer systems, which mainly covers areas such as operating systems, virtualization technology, or distributed systems, but also interfaces to related areas like security, networking, computer architecture, and software reliability.
 
 
-## OBjective (expected results of study and acquired competences):
+## Objective (expected results of study and acquired competences):
 
 The participants will read, discuss, and analyze recent papers from top conferences in this field, particularly ASPLOS, OSDI, USENIX ATC, and EuroSys. Participants are expected to read papers in depth prior to class and take turns preparing and delivering high-quality presentations of the papers. Furthermore, the participants will actively participate in the discussion to critically analyze the system and advance the state of the art. More concretely, the participants will learn:
 - Advanced scientific topics in computer systems.
@@ -86,18 +86,7 @@ The course grades will be based on:
 We will use Slack for all communication. Please enroll in our Slack workspace using your official TUM email address.
 
 - **Slack workspace:** https://ls1-courses-tum.slack.com
-- **Slack channel:** #ws26-sys-seminar
-
-## Meeting place
-
-- Preliminary meeting
-   - https://tum-conf.zoom.us/j/65999320139?pwd=K04rdk5JUzhlYU5MaDJpbGNwaW1jZz09
-   - Meeting ID: 659 9932 0139
-   - Passcode: 792842
-
-- The kick-off meeting and research presentations (day 1 and 2)
-   - Those meetings will take place in-person: 01.07.014, Seminarraum (5607.01.014).
-   - See [Important Dates](#important-dates)
+- **Slack channel:** #ws26-comp-sys-seminar
 
 ## Important resources
 
