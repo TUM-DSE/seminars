@@ -71,6 +71,9 @@ the fellow participants are expected to read the paper and engage the presenters
 - **Capacity:** We plan to have at most 24 places in the seminar.
 - **Deadline:** Two weeks after the matching period, we will formally enroll you for the course. If
   you want to drop out, please inform us before the registration deadline.
+- **Missed Registration** If for some reason you missed the matching period, you can send us an e-mail and we 
+  might be able to register you if there is space. 
+- 📧 Please include your full name and student number. Use your official TUM e-mail.
 
 
 ## Assessment
