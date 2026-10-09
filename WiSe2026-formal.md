@@ -106,8 +106,8 @@ Please carefully go over the following resources to prepare for the seminar:
     - Meeting slides: [Formal Systems Overview](docs/formal-seminar-overview.pdf)
 
 - **Kick-off meeting:**
-    - Date: TBA
-    - Location: TBA (CIT building)
+    - Date: Oct 15 (Thu), 2026, 10:00 - 11:00 CET
+    - Location: 01.07.014 (CIT building)
 
 - **Paper presentations:**
     - Date: TBA
@@ -124,8 +124,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 ## Paper reading list
 
-- The list of papers will be released on Slack *in the first week*.
-
+- The list of papers has been released on Slack (in the first week).
 
 ## Report submission and peer-review portal
 
