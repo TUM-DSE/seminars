@@ -93,16 +93,8 @@ We will use Slack for all communication. Please enroll in our Slack workspace us
 
 ## Important resources
 
-Please carefully go over the following resources to prepare for the seminar:
+Please carefully go over the Participant Resources shared via Google Doc and the [Overview](docs/sys-seminar-overview.pdf)
 
-- [Overview](docs/sys-seminar-overview.pdf)
-- [Paper reading](docs/paper-reading.pdf)
-- [Presentation](docs/presentation.pdf)
-- [Report](docs/report.pdf)
-- [Participation](docs/participation.pdf)
-- [Peer reviewing](docs/peer-review.pdf)
-- [Grading](docs/grading.pdf)
-- [System building](docs/system-building.pdf) (Optional)
 
 ## Important dates
 
@@ -112,20 +104,20 @@ Please carefully go over the following resources to prepare for the seminar:
     - Meeting slides: [Systems Overview](docs/systems-overview.pdf)
 
 - **Kick-off meeting:**
-    - Date: TBD (first week of the semester). ~~April 16 (Thu), 2026, 13:00 - 15:00 CET~~
-    - Location: ~~01.07.014, Seminarraum (5607.01.014)~~
+    - Date: October 14.
+    - Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Paper presentations:**
-    - Date: TBD ~~May 7, May 14 & May 21 (Thu), 2026, 13:00 - 15:00 CET~~
-    - Location: ~~01.07.014, Seminarraum (5607.01.014)~~
+    - Date: October 28, November 4 &  11 &  18. 
+    - Location: 01.07.014, Seminarraum (5607.01.014)
 
 - **Research presentations:**
-    - Date: TBD ~~June 4, June 11 & June 18 (Thu), 2026, 13:00 - 15:00 CET~~
-    - Location: ~~01.07.014, Seminarraum (5607.01.014)~~
+    - Date: December 2 & 9 & 16, Janjuar 13
+    - Location: 01.07.014, Seminarraum (5607.01.014)
 
-- **Report due (via HotCRP):** TBD ~~July 10 (Fri), 2026, 23:59 CET~~
+- **Report due (via HotCRP):** January 22, 23:59
 
-- **Peer-review due (via HotCRP):** TBD  ~~July 24 (Fri), 2026, 23:59 CET~~
+- **Peer-review due (via HotCRP):** February 5, 23:59
 
 
 ## Paper reading list
