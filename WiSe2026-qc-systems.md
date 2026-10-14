@@ -90,7 +90,7 @@ Please carefully go over the following resources to prepare for the seminar:
 
 - **Kick-off meeting:** 
 	- Place: 5607.01.014
-    - Date: TBA
+    - Date: October 22 (Thu), 2026, 11:30 - 12:30 CEST
 
 - **Research presentation:**
 	- Place: 5607.01.014
