@@ -57,7 +57,7 @@ We will assign papers for discussion and research study. The students will work 
 
 1. **Papers presentation phase:** In this phase, the students will present the research papers assigned to them. They should clearly understand and explain the context of the work, contributions, and potential future work.
 2. **Research phase:** In the second phase, the student will work on the identified research problem statement. The research phase should clearly motivate the research problem, and also should clearly explain the research methodology to solve the problem.
-3. **Reports and peer-review**:  As the last phase, the students are expected to submit a report summarizing the presented paper and the research proposal. Further, we will be using the state-of-the-art reviewing system (hotcrp) for peer review of the reports. In the peer-review process, the students are expected to give feedback covering the positive and critical aspects.
+3. **Reports and peer-review**:  As the last phase, the students are expected to submit a report summarizing the presented paper and the research proposal. The report should be in double-column ACM format: `\documentclass[sigplan,screen]{acmart}`. Further, we will be using the state-of-the-art reviewing system (hotcrp) for peer review of the reports. In the peer-review process, the students are expected to give feedback covering the positive and critical aspects.
 
 
 We recommend that the students devote roughly equal amounts of time to each of these phases. Lastly, the fellow participants are expected to read the paper and engage the presenters in an active discussion.
@@ -73,9 +73,8 @@ We recommend that the students devote roughly equal amounts of time to each of t
 
 The course grades will be based on:
 - student presentation (30% points),
-- a 3-4 page project report summarizing the paper (20%) and research proposal (30% points), and
+- a 5-6 page project report summarizing the paper (20%) and research proposal (30% points), and
 - class participation and peer review (20%).
-
 
 ## Slack workspace
 
@@ -110,16 +109,14 @@ Please carefully go over the following resources to prepare for the seminar:
     - Location: 01.07.014 (CIT building)
 
 - **Paper presentations:**
-    - Date: TBA
+    - Date: Nov 5 (Thu), 2026, 10:00 - 12:00 CET
     - Location: TBA (CIT building)
 
-- **Research presentations:**
-    - Date: TBA
-    - Location: TBA (CIT building)
-
-- **Report due (via HotCRP):** TBA
+- **Draft Report due (via HotCRP):** TBA
 
 - **Peer-review due (via HotCRP):** TBA
+
+- **Final Report due (via HotCRP):** TBA
 
 
 ## Paper reading list
